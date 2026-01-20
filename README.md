@@ -1,6 +1,7 @@
 # Automated-Text-Summarization
 Automated text summarization using a scratch custom Transformer encoder–decoder architecture with self-attention and cross-attention, trained two separate models on dialogue and CNN news datasets seperately.
 Dataset Links : Dialog Summarization Dataset : https://www.kaggle.com/datasets/marawanxmamdouh/dialogsum
+
                 CNN news Dataset : https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
 
 Project Overview
