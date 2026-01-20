@@ -1,7 +1,11 @@
 # Automated-Text-Summarization
 Automated text summarization using a scratch custom Transformer encoder–decoder architecture with self-attention and cross-attention, trained two separate models on dialogue and CNN news datasets seperately.
-Dialog Summarization Dataset Link : https://www.kaggle.com/datasets/marawanxmamdouh/dialogsum
-CNN news Dataset Link : https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
+
+Dialog Summarization Dataset Link : 
+https://www.kaggle.com/datasets/marawanxmamdouh/dialogsum
+
+CNN news Dataset Link : 
+https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
 
 Project Overview
 The goal of this project is to build an automated text summarizer that processes input texts and generates corresponding summaries in human speech voice.
